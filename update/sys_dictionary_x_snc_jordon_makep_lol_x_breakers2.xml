@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="x_breaker" table="x_snc_jordon_makep_lol">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="x_breakers2" table="x_snc_jordon_makep_lol">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Breaker</column_label>
+        <column_label>Breakers2</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>x_breaker</element>
+        <element>x_breakers2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
-        <sys_created_on>2018-07-26 11:59:41</sys_created_on>
-        <sys_id>b78ab3514fe35300ec18e3d11410c7d3</sys_id>
+        <sys_created_on>2018-07-26 13:34:08</sys_created_on>
+        <sys_id>41eaf7514fe35300ec18e3d11410c75d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Breaker</sys_name>
+        <sys_name>Breakers2</sys_name>
         <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_jordon_makep_lol_x_breaker</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-07-26 13:31:54</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_jordon_makep_lol_x_breakers2</sys_update_name>
+        <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+        <sys_updated_on>2018-07-26 13:34:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
