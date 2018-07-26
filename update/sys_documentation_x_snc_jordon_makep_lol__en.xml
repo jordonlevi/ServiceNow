@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="lol" language="en" table="x_snc_jordon_makep_lol">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>lol</label>
+            <language>en</language>
+            <name>x_snc_jordon_makep_lol</name>
+            <plural>lols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-06-07 08:44:05</sys_created_on>
+            <sys_id>22c222a5dbea13006d777a6eaf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>lol</sys_name>
+            <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_jordon_makep_lol__en</sys_update_name>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-06-07 08:44:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
