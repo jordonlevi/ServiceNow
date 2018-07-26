@@ -29,6 +29,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_testcolumnbreak2</element>
+            <position>2</position>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-26 11:36:46</sys_created_on>
+            <sys_id>b930eb514fa35300ec18e3d11410c79a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_jordon_makep_lol" sys_domain="global" view="Default view">199f610ddb6f9b406d777a6eaf96194f</sys_ui_section>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-26 11:36:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
