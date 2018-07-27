@@ -2,5 +2,7 @@
 <database>
     <element attributes="email_client=true,all_tables.query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="תקרית" max_length="40" name="incident" sizeclass="61" text_index="true" type="collection">
         <element label="u_critical_first_start" max_length="100" name="x_snc_jordon_makep_u_critical_first_start" type="glide_date_time"/>
+        <element label="x_tester" max_length="32" name="x_snc_jordon_makep_x_tester" type="string"/>
+        <element label="x_tester2" max_length="32" name="x_snc_jordon_makep_x_tester2" type="string"/>
     </element>
 </database>
