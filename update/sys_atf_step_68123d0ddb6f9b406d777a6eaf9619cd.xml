@@ -3,7 +3,8 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Insert a record into 'x_snc_jordon_makep_lol' with the following values: 
-GeneralID = 9</description>
+GeneralID = 9
+and testColumnBreak = 10</description>
         <display_name>Record Insert</display_name>
         <inputs/>
         <order>1</order>
@@ -12,14 +13,14 @@ GeneralID = 9</description>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
         <sys_created_on>2018-07-25 08:57:24</sys_created_on>
         <sys_id>68123d0ddb6f9b406d777a6eaf9619cd</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Record Insert</sys_name>
         <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
         <sys_update_name>sys_atf_step_68123d0ddb6f9b406d777a6eaf9619cd</sys_update_name>
         <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
-        <sys_updated_on>2018-07-25 08:57:24</sys_updated_on>
+        <sys_updated_on>2018-07-26 11:58:48</sys_updated_on>
         <table>x_snc_jordon_makep_lol</table>
         <test display_value="Chef Software Test">f9bf290ddb6f9b406d777a6eaf9619d8</test>
         <timeout/>
@@ -47,10 +48,10 @@ GeneralID = 9</description>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
         <sys_created_on>2018-07-25 08:57:24</sys_created_on>
         <sys_id>e522bd4ddb6f9b406d777a6eaf9619a1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
-        <sys_updated_on>2018-07-25 08:57:24</sys_updated_on>
-        <value>x_generalid=9^EQ</value>
+        <sys_updated_on>2018-07-26 11:58:49</sys_updated_on>
+        <value>x_generalid=9^x_testcolumnbreak=10^EQ</value>
         <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

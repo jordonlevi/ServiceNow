@@ -54,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
         <sys_created_on>2018-07-26 11:59:41</sys_created_on>
-        <sys_id>b78ab3514fe35300ec18e3d11410c7d3</sys_id>
+        <sys_id>b6e0087ddb631f406d777a6eaf9619d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Breaker</sys_name>
         <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_jordon_makep_lol_x_breaker</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-07-26 13:31:54</sys_updated_on>
+        <sys_updated_on>2018-07-27 08:38:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
