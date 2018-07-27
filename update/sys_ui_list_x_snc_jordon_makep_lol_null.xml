@@ -10,11 +10,86 @@
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>jordon.makepeace@snc</sys_created_by>
-            <sys_created_on>2018-07-25 08:45:59</sys_created_on>
-            <sys_id>5e8f650ddb6f9b406d777a6eaf9619b3</sys_id>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
+            <sys_id>842288314feb5300ec18e3d11410c710</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
-            <sys_updated_on>2018-07-25 08:45:59</sys_updated_on>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_breaker</element>
+            <list_id display_value="x_snc_jordon_makep_lol" element="NULL" name="x_snc_jordon_makep_lol" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d28f650ddb6f9b406d777a6eaf9619b3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
+            <sys_id>4c2288314feb5300ec18e3d11410c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_breakers2</element>
+            <list_id display_value="x_snc_jordon_makep_lol" element="NULL" name="x_snc_jordon_makep_lol" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d28f650ddb6f9b406d777a6eaf9619b3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
+            <sys_id>cc2288314feb5300ec18e3d11410c710</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_breakers3</element>
+            <list_id display_value="x_snc_jordon_makep_lol" element="NULL" name="x_snc_jordon_makep_lol" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d28f650ddb6f9b406d777a6eaf9619b3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
+            <sys_id>402288314feb5300ec18e3d11410c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_testcolumnbreak</element>
+            <list_id display_value="x_snc_jordon_makep_lol" element="NULL" name="x_snc_jordon_makep_lol" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d28f650ddb6f9b406d777a6eaf9619b3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
+            <sys_id>c02288314feb5300ec18e3d11410c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_testcolumnbreak2</element>
+            <list_id display_value="x_snc_jordon_makep_lol" element="NULL" name="x_snc_jordon_makep_lol" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d28f650ddb6f9b406d777a6eaf9619b3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
+            <sys_id>442288314feb5300ec18e3d11410c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -28,7 +103,7 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jordon.makepeace@snc</sys_created_by>
-            <sys_created_on>2018-07-25 08:45:59</sys_created_on>
+            <sys_created_on>2018-07-27 08:43:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d28f650ddb6f9b406d777a6eaf9619b3</sys_id>
@@ -39,7 +114,7 @@
             <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_jordon_makep_lol_null</sys_update_name>
             <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
-            <sys_updated_on>2018-07-25 08:45:59</sys_updated_on>
+            <sys_updated_on>2018-07-27 08:43:24</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

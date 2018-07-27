@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="lol" max_length="40" name="x_snc_jordon_makep_lol" type="collection">
+        <element label="x_Break1" max_length="32" name="x_break1" type="integer"/>
         <element label="Breaker" max_length="32" name="x_breaker" type="string"/>
         <element label="Breakers2" max_length="32" name="x_breakers2" type="string"/>
         <element label="breakers3" max_length="3" name="x_breakers3" type="integer"/>
