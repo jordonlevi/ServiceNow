@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="x_snc_jordon_makep_u_critical_first_start" table="incident">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="x_actualbreak" table="x_snc_jordon_makep_lol">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>u_critical_first_start</column_label>
+        <column_label>x_actualBreak</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,15 +28,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>x_snc_jordon_makep_u_critical_first_start</element>
+        <element>x_actualbreak</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">glide_date_time</internal_type>
+        <internal_type display_value="Integer">integer</internal_type>
         <mandatory>false</mandatory>
-        <max_length>100</max_length>
-        <name>incident</name>
+        <max_length>32</max_length>
+        <name>x_snc_jordon_makep_lol</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
-        <sys_created_on>2018-07-18 15:37:02</sys_created_on>
-        <sys_id>09fcc0b24f6f1300ec18e3d11410c7ce</sys_id>
+        <sys_created_on>2018-07-30 12:03:08</sys_created_on>
+        <sys_id>8f7c08724f6f1300ec18e3d11410c7ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>u_critical_first_start</sys_name>
+        <sys_name>x_actualBreak</sys_name>
         <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
-        <sys_update_name>sys_dictionary_incident_x_snc_jordon_makep_u_critical_first_start</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-07-30 12:04:42</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_jordon_makep_lol_x_actualbreak</sys_update_name>
+        <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+        <sys_updated_on>2018-07-30 12:03:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

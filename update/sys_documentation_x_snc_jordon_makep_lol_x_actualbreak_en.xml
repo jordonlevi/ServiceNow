@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_actualbreak" label="x_actualBreak" language="en" table="x_snc_jordon_makep_lol">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_actualbreak</element>
+            <help/>
+            <hint/>
+            <label>x_actualBreak</label>
+            <language>en</language>
+            <name>x_snc_jordon_makep_lol</name>
+            <plural>x_actualBreaks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jordon.makepeace@snc</sys_created_by>
+            <sys_created_on>2018-07-30 12:03:09</sys_created_on>
+            <sys_id>0b9c0c724f6f1300ec18e3d11410c7d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_actualBreak</sys_name>
+            <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_jordon_makep_lol_x_actualbreak_en</sys_update_name>
+            <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+            <sys_updated_on>2018-07-30 12:03:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

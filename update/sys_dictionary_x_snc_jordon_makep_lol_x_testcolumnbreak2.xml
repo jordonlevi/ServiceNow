@@ -54,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
         <sys_created_on>2018-07-26 11:36:46</sys_created_on>
-        <sys_id>d758e5b9db671f406d777a6eaf96197b</sys_id>
+        <sys_id>c1fcc0b24f6f1300ec18e3d11410c7c2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>testColumnBreak2</sys_name>
         <sys_package display_value="Jordon Makepeace" source="x_snc_jordon_makep">1d626265dbea13006d777a6eaf9619da</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Jordon Makepeace">1d626265dbea13006d777a6eaf9619da</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_jordon_makep_lol_x_testcolumnbreak2</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-07-27 16:10:08</sys_updated_on>
+        <sys_updated_on>2018-07-30 12:04:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
